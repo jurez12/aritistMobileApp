@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673793856247",
+    "firebase_url": "https://artists-fb90d.firebaseio.com",
+    "project_id": "artists-fb90d",
+    "storage_bucket": "artists-fb90d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673793856247:android:19cc8139ee72a3681939f2",
+        "android_client_info": {
+          "package_name": "com.my.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673793856247-fpm014veftjgsfk018h3mh0va2u021jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOY-3i_mEM0LPyzikF_hLzR8MWUc-mno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673793856247-fpm014veftjgsfk018h3mh0va2u021jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
